@@ -4,10 +4,10 @@ i am CCN0 (pronounced see-see-no) and i make random things. it could be on my [s
 
 ### what im working on
 
-extensions(?), autone(?), soundlets plus(?), games(?), good things too
+userscripts, games, fun things, good things too
 
 ### also what i do
 
-i might say some stuff on my [mastodon](https://mastodon.social/@ccn0) or my [blog](https://ccn0guy.blogspot.com).
+i might say some stuff on my [mastodon](https://mastodon.social/@ccn0) (?) or my [blog](https://ccn0guy.blogspot.com).
 
 [here's the portal btw](https://ccn0.github.io/things/portal/)
