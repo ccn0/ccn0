@@ -1,6 +1,8 @@
 i am `CCN0` (pronounced see-see-no) and i make random things. it could be on my [site](https://ccn0.net/), my [github](https://github.com/ccn0), or my [scratch (now inactive)](https://scratch.mit.edu/users/ccn0net).
 
-things, fun userscripts, games, and other stuffs too
+## whats the latest
+
+things, fun userscripts, games, and other stuffs too, i dont update my github readme often, better to check my websites home page or bsky.
 
 ## social media????
 
