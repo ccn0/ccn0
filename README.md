@@ -1,13 +1,15 @@
-## hello, person
+i am `CCN0` (pronounced see-see-no) and i make random things. it could be on my [site](https://ccn0.net/), my [github](https://github.com/ccn0), or my [scratch (now inactive)](https://scratch.mit.edu/users/ccn0net).
 
-i am CCN0 (pronounced see-see-no) and i make random things. it could be on my [site](https://ccn0.github.io/things), my [github](https://github.com/ccn0), or my [scratch (very inactive)](https://scratch.mit.edu/users/ccn0net).
+things, fun userscripts, games, and other stuffs too
 
-### what im working on
+## social media????
 
-userscripts, games, fun things, good things too
+i might say some stuff on my [bluesky](https://bsky.app/profile/ccn0.net) (?) or my [blog](https://blog.ccn0.net).
 
-### also what i do
+## highlights
 
-i might say some stuff on my [mastodon](https://mastodon.social/@ccn0) (?) or my [blog](https://ccn0guy.blogspot.com).
-
-[here's the portal btw](https://ccn0.github.io/things/portal/)
+- [CCN0 PORTAL, THIS IS IT](https://ccn0.github.io/things/portal/)
+- [Soundlets+ Quickstart](https://ccn0.net/things/soundlets/plus.html?url=https://ccn0.net/img/ccn0audiosoundboard.json)
+- [SearchPlusPREMIUM](https://ccn0.net/things/searchpluspremium/), the only search engine that gets you _exactly_ where you want to go
+- [My Userscripts](https://ccn0.net/pages/userscripts/), and/or their [source code](https://github.com/ccn0/userscripts).
+- [Programmable _Notepad_](https://ccn0.net/things/notepad/programmable).
